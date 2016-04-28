@@ -1,0 +1,50 @@
+h1 {
+	font-size: 72pt;
+	font-family: helvetica;
+	text-align: center;
+	color: #000026;
+}
+div {
+  height: 100px;
+  background-image:
+    linear-gradient(
+      to right, 
+      red, 
+      #E800B7, 
+      rgb(232,0,183), 
+      blue
+    );
+}
+
+.button {
+	display: inline-block;
+	text-align: left;
+	padding: 10px 30px;
+	background-color: #260325;
+	color: #FF6DF4;
+	font-size: 24pt;
+	font-family: helvetica;
+	font-weight: bold;
+	
+}
+.centerize {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+     }
+body {
+	background: #9836FF;
+}
+
+
+img {
+	width: 1000px;
+	position: absolute center;
+	
+}
+
